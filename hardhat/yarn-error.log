@@ -35,7 +35,7 @@ npm manifest:
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "",
+    "author": "BitWiz0108",
     "license": "ISC",
     "dependencies": {
       "@openzeppelin/contracts": "^4.4.1",

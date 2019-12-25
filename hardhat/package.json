@@ -9,7 +9,7 @@
     "typecheck": "tsc --noEmit",
     "deploy": "npx hardhat run scripts/deploy.ts"
   },
-  "author": "",
+  "author": "BitWiz0108",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^10.0.0"
